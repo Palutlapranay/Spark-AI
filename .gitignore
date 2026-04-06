@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# Env files
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Build
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+coverage/
